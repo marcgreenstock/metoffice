@@ -1,0 +1,9 @@
+{
+  "name":        "metoffice.js",
+  "version":     "0.0.1",
+  "description": "UK Met Office",
+  "private":     true,
+  "dependencies": {
+    "moment": "2.0.x"
+  }
+}
